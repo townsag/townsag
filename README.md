@@ -32,7 +32,7 @@ Some tools I am proficient in:
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=townsag&size_weight=0.5&count_weight=0.5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=townsag&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=20)
 <!--
 **townsag/townsag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
