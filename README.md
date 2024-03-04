@@ -2,6 +2,7 @@
 About me:
 - I am a master's student at San Jose State University studying Computer Science
 - I like applying machine learning to biology
+- Check out my boba tea review blog at http://binasbobablog.com
 
 Some tools I am proficient in:
 - Web dev:
@@ -30,8 +31,6 @@ Some tools I am proficient in:
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-Check out my boba tea review blog at http://binasbobablog.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=townsag&size_weight=0.5&count_weight=0.5&layout=compact)
 <!--
